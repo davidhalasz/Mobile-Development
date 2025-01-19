@@ -2,7 +2,7 @@
 
 ## SwiftUI
 - [Project 1: Finance Tracker](https://github.com/davidhalasz/SaveTrack)
-  A SwiftUI app to track income, expenses, and savings.
+- A SwiftUI app to track income, expenses, and savings.
 
 - [Project 2: RSS Reader](https://github.com/davidhalasz/Simple-SWIFTUI-RSS)  
   A simple RSS reader
